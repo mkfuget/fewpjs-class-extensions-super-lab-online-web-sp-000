@@ -2,7 +2,7 @@
 class Tree{
   constructor(species)
   {
-    this.species = species 
+    this.species = species
   }
   static definition()
   {
@@ -13,9 +13,9 @@ class Tree{
 class Deciduous {
   constructor(species, name)
   {
-    super(species) 
+    super(species)
     this.name = name
   }
-  
-  
+
+
 }
